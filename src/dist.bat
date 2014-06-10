@@ -6,7 +6,7 @@ rem Script para geracao de tag, de forma automatizada, para projetos nao-relaci-
 rem onados com desenvolvimento de software.
 rem
 rem
-rem Copyright (c) 2014 Petroleo Brasileiro S/A - PETROBRAS
+rem Copyright (c) 2014 Bruno Guerchon Nunes
 rem     Rio de Janeiro, RJ - Brasil.
 rem     Todos os direitos reservados.
 rem
